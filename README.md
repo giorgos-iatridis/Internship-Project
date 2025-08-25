@@ -12,16 +12,7 @@ TrainingValidationTest.py → Splits the dataset into train / validation / test 
 
 NeuralNetwork.py → Defines and trains a TensorFlow/Keras model to classify pulse vs. no-pulse signals.
 
-⚙️ Installation
-
-Clone the repo and install dependencies:
-
-git clone https://github.com/yourusername/neutrino-pulse-detection.git
-cd neutrino-pulse-detection
-pip install -r requirements.txt
-
-
-Dependencies:
+⚙️ Requirements
 
 * numpy
 * scipy
